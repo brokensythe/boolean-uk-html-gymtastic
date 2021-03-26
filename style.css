@@ -2,11 +2,11 @@
   margin: 0px;
   border: 0;
   padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .navbar li {
   display: inline-block;
-  font-family: Arial, Helvetica, sans-serif;
   color: white;
   padding: 15px;
 }
@@ -23,6 +23,13 @@ nav {
 
 h1 {
   color: rgb(54, 112, 221);
-  font-family: Arial, Helvetica, serif;
   font-size: 30px;
+}
+
+.main-body {
+  padding: 35px;
+}
+
+.top-heading {
+  padding-bottom: 18px;
 }
