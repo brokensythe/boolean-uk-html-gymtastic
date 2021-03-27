@@ -38,22 +38,66 @@ h1 {
   padding-bottom: 15px;
 }
 
-strong {
+.main-page-text strong {
   color: rgb(54, 112, 221);
 }
 
-.buttons {
+p.buttons {
+  font-size: 15px;
+  color: orange;
+  border: solid orange 3px;
+  width: 140px;
+  height: 17px;
+  padding: 14px 31px 13px 31px;
+  margin-bottom: 35px;
   border-radius: 15px;
 }
 
-p.buttons {
-  font-size: 14px;
-  color: orange;
-  border: solid orange 3px;
-  width: 185px;
-  height: 49px;
-  padding-top: 14px;
-  padding-left: 26px;
-  margin-bottom: 40px;
+.follow-heading {
+  padding-bottom: 20px;
+}
+
+.buttons p {
+  font-size: 19px;
+  color: white;
+  font-weight: bold;
+  border: none 3px;
+  box-shadow: 1px 0px rgba(90, 80, 80, 0.25);
+  border-radius: 15px;
+  padding: 14px 32px;
+  margin-right: 19px;
   box-sizing: border-box;
+  display: inline;
+}
+
+.Instagram-link {
+  background-color: purple;
+}
+
+.Facebook-link {
+  background-color: blue;
+}
+
+.Youtube-link {
+  background-color: red;
+}
+
+Footer {
+  background-color: rgb(54, 112, 221);
+  padding: 20px;
+  color: white;
+}
+
+.footer-heading {
+  font-size: 21px;
+  margin-bottom: 15px;
+}
+
+.text {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.gym-locations {
+  margin-left: 26px;
 }
